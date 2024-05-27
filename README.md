@@ -15,3 +15,7 @@
 2. **Player Movement**: The player must be able to move around the map, collect items, and reach the exit.
 3. **Move Count**: Display the number of moves made by the player on the screen.
 4. **Event Handling**: Implement keyboard events (W, A, S, D for movement and Esc to exit).
+
+## Gameplay
+
+![so_long](https://github.com/brunofmsilva11/So_long/issues/1#issue-2319393556)
