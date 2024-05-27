@@ -17,4 +17,5 @@
 4. **Event Handling**: Implement keyboard events (W, A, S, D for movement and Esc to exit).
 
 ## Gameplay
-[so_long.webm](https://github.com/brunofmsilva11/So_long/assets/117391049/9d961de8-2805-46f1-9172-a56835ce82c3)
+
+![so_long](https://github.com/brunofmsilva11/So_long/assets/117391049/b61cac4d-5967-4c35-a9cb-56f9f5e0019c)
