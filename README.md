@@ -17,5 +17,3 @@
 4. **Event Handling**: Implement keyboard events (W, A, S, D for movement and Esc to exit).
 
 ## Gameplay
-
-![so_long](https://github.com/brunofmsilva11/So_long/issues/1#issue-2319393556)
